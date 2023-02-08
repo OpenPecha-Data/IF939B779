@@ -1,0 +1,16 @@
+id: IF939B779
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:25:44.396314
+last_modified: 2023-02-08 15:25:44.396427
+source_metadata:
+  title: Tathāgatagarbhasūtra
+  language: bo
+bases:
+  F642:
+    base_file: F642.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
